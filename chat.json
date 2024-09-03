@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time price updates for coins\", \"checked\": true}, {\"feature\": \"User authentication to save favorite coins\", \"checked\": false}, {\"feature\": \"Price alert notifications for selected coins\", \"checked\": false}, {\"feature\": \"Interactive chart for price trends\", \"checked\": true}, {\"feature\": \"News feed related to cryptocurrency\", \"checked\": false}], \"input_token_count\": 430, \"output_token_count\": 89, \"time_taken\": \"0:00:01.557460\"}",
+        "message_id": "guest03092024150323",
+        "timestamp": "03092024150331",
+        "component_file_name": "basic_login_form_1725375168",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific functionality do you want for wrapping ether on that contract?\", \"option1\": \"Just a simple wrap function\", \"option2\": \"Include additional features like error handling or transaction confirmation\"}, {\"question 2\": \"How do you want the user interface for the wrap ether feature to look?\", \"option1\": \"Minimalistic and straightforward\", \"option2\": \"Detailed with more information and options\"}], \"input_token_count\": 476, \"output_token_count\": 96, \"time_taken\": \"0:00:01.420081\"}",
         "message_id": "guest03092024150323",
