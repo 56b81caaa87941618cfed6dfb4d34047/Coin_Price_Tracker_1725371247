@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific features or options would you like to provide users when wrapping ether?\", \"option1\": \"Allow users to specify the amount of ether to wrap\", \"option2\": \"Provide a one-click wrap option for convenience\"}, {\"question 2\": \"How would you like the user interface to communicate the wrapping process to users?\", \"option1\": \"Show a progress bar during the wrapping process\", \"option2\": \"Display a confirmation message once the wrapping is successful\"}], \"input_token_count\": 491, \"output_token_count\": 109, \"time_taken\": \"0:00:01.607234\"}",
+        "message_id": "guest03092024151222",
+        "timestamp": "03092024151227",
+        "component_file_name": "basic_login_form_1725375168",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I'm currently working on implementing the wrapping solutions for the specified contract.",
         "message_id": "guest03092024151222",
