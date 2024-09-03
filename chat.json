@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific functionality do you want when wrapping ether, such as automatic conversion or user-triggered action?\", \"option1\": \"Automatic conversion when sending ether\", \"option2\": \"User-triggered action with a button to wrap ether\"}, {\"question 2\": \"How would you like the user interface to present the wrapping process, in terms of graphics or notifications?\", \"option1\": \"Simple text confirmation after wrapping\", \"option2\": \"Progress bar with animated graphics during the wrapping process\"}], \"input_token_count\": 416, \"output_token_count\": 113, \"time_taken\": \"0:00:01.507782\"}",
+        "message_id": "guest03092024150118",
+        "timestamp": "03092024150123",
+        "component_file_name": "basic_login_form_1725375168",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I'm on it, creating a method to wrap ether on the specified contract.",
         "message_id": "guest03092024150118",
