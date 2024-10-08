@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I will change it to glassmorphic style.",
+        "message_id": "guest08102024104102",
+        "timestamp": "08102024104103",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change this to glassmorphic style",
         "message_id": "guest08102024104102",
