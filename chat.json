@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Glassmorphic background for the main interface\", \"checked\": true}, {\"feature\": \"Frosted glass effect on buttons\", \"checked\": true}, {\"feature\": \"Transparent card designs for coin listings\", \"checked\": true}, {\"feature\": \"Blurred overlay for pop-up modals\", \"checked\": false}, {\"feature\": \"Subtle shadows for depth and layering\", \"checked\": false}], \"input_token_count\": 442, \"output_token_count\": 97, \"time_taken\": \"0:00:01.944693\"}",
+        "message_id": "guest08102024104102",
+        "timestamp": "08102024104113",
+        "component_file_name": "basic_login_form_1725375168",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of blue are you envisioning for the app design?\", \"option1\": \"Light blue\", \"option2\": \"Dark blue\"}, {\"question 2\": \"Would you like this blue color applied to the entire app or just specific sections?\", \"option1\": \"Entire app\", \"option2\": \"Specific sections only\"}], \"input_token_count\": 550, \"output_token_count\": 82, \"time_taken\": \"0:00:01.355874\"}",
         "message_id": "guest08102024104104",
