@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn a recent conversation, the user requested the AI assistant to generate a method for wrapping ether on the Ethereum mainnet for a specific contract (0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2). The AI acknowledged the message and confirmed that it would begin working on the requested method.\nAI: I'm currently working on implementing the wrapping solutions for the specified contract.\nUser: Generate a way to wrap ether on the contract 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 on ethereum mainnet\nAI: Okay, I'm currently working on a method to wrap ether on that contract.\nUser: Generate a way to wrap ether on the contract 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 on ethereum mainnet\nAI: I'm on it, creating a method to wrap ether on the specified contract.\n\nThis is the user's current request of changes to be made:\nChange this to glassmorphic style"
+    }
+]
