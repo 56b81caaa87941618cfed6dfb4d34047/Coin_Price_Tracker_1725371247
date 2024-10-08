@@ -2,6 +2,7 @@
   <main class="h-7/12 flex items-center justify-center">
     <div class="p-10 flex flex-col items-center justify-center bg-white w-full max-w-md shadow-lg">
       <div class="text-black w-full">
+        <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Coin_Price_Tracker_1725371247/main/images/72955d3f1527476cba64b7c1578e4c2c.jpeg" alt="Login Image" class="mb-5" />
         <div class="w-full mb-5">
           <h3 class="text-3xl font-bold mb-5 text-center">Log in to your account</h3>
           <div class="flex justify-center mb-5">
