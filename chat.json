@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "user",
+        "content": "change to blue",
+        "message_id": "guest08102024104104",
+        "timestamp": "08102024104104",
+        "component_file_name": "basic_login_form_1725375168",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I will change it to glassmorphic style.",
         "message_id": "guest08102024104102",
