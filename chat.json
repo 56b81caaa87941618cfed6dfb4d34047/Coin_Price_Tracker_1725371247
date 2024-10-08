@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific elements of the app do you want to incorporate the glassmorphic style into (e.g., buttons, backgrounds, cards)?\", \"option1\": \"Buttons and backgrounds\", \"option2\": \"All elements including cards and navbars\"}, {\"question 2\": \"Do you have any color preferences in mind for the glassmorphic design, or should I choose a default palette?\", \"option1\": \"I have specific colors in mind\", \"option2\": \"Please choose a default palette\"}], \"input_token_count\": 488, \"output_token_count\": 116, \"time_taken\": \"0:00:01.608300\"}",
+        "message_id": "guest08102024104102",
+        "timestamp": "08102024104106",
+        "component_file_name": "basic_login_form_1725375168",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will change it to blue now.",
         "message_id": "guest08102024104104",
